@@ -69,7 +69,6 @@ public class alienMain {
 
         transaction.commit();
 
-
         session.close();
 
         Session session1 = sf.openSession();

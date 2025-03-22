@@ -27,13 +27,14 @@ public class Alien {
         this.aid = aid;
     }
 
-    public String getAname() {
-        return aname;
-    }
 
     public void setAname(String aname) {
         this.aname = aname;
     }
+    public String getAname() {
+        return aname;
+    }
+
 
     public String getTech() {
         return tech;
